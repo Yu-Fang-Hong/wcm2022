@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '網站倉儲:\xa0 https://github.com/Yu-Fang-Hong/wcm2022 \n 網站連結:   https://yu-fang-hong.github.io/wcm2022/', 'tags': '', 'url': 'About.html'}]};
